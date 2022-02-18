@@ -1,8 +1,8 @@
 //  STEP 1
-// let someMonth;
-// function theMonth();
-// let currentMonth;
-// let summerMonth;
+// let someMonth
+// function theMonth()
+// let currentMonth
+// let summerMonth
 // let MyLibraryFunction
 
 
@@ -13,8 +13,8 @@
 // null            // null literal expression
 
 //  STEP 3
-// let anExpression = 6 * (5 / 2) + 7;
-// let anExpression = (3 + 1) + (4 / 6) * 6;
+// let anExpression = 6 * (5 / 2) + 7
+// let anExpression = (3 + 1) + (4 / 6) * 6
 
 
 //  STEP 4 NOTE: NO CLOSING SEMICOLON IS INTENTIONAL - TYP. THROUGHOUT
@@ -36,16 +36,16 @@
 //  STEP 6
 // let firstName = 'Trish'
 // let yearsLocal = 30;
-// alert(firstName+ ' has been living in San Diego for ' + yearsLocal+ ' years.');
+// alert(firstName+ ' has been living in San Diego for ' + yearsLocal+ ' years.')
 
 //  STEP 7
 // let firstName = 'Trish'
 // let isNative = false
-// alert(firstName+ ' is a native; ' + isNative);
+// alert(firstName+ ' is a native; ' + isNative)
 
 //  STEP 8
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
-// window.console.log(someString);
+// window.console.log(someString)
 
 //  STEP 9
 // let y = null             // creates null
@@ -59,7 +59,7 @@
 // typeof '2'             // number
 // typeof false           // Boolean
 // typeof 2               // object             **** not sure
-// typeof let x;          //undefined           **** not working
+// typeof let x          //undefined            **** not working
 
 //  STEP 11
 // let teacher = 'Zac Ruvalcaba'
@@ -82,8 +82,8 @@
 // alert('Hello ' + student + ', \n Welcome to the' + course + ' class!')
 
 //  STEP 15   **** not sure if this is what question is looking for
-// let firstName = window.prompt("Enter your name: ");
-// alert("Your name is " + firstName);
+// let firstName = window.prompt("Enter your name: ")
+// alert("Your name is " + firstName)
 
 //  STEP 16
 // let course = window.prompt('Enter your class here')
