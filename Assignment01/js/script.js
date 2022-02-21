@@ -70,7 +70,6 @@
 // let y
 // console.log(y)           // creates undefined
 
-
 //  STEP 10
 //Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined
 // typeof 'Hello'
