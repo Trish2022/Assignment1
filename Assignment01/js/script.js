@@ -73,11 +73,16 @@
 
 //  STEP 10
 //Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined
-// typeof 'Hello'         // string
-// typeof '2'             // number
-// typeof false           // Boolean
-// typeof (1,2,3)         // object             
-// typeof x               //undefined         
+// typeof 'Hello'
+// console.log('hello')         // string
+// // typeof '2' 
+// console.log('number')        // number
+// // typeof false  
+// console.log('1,2,3')         // Boolean
+// // typeof (1,2,3)
+// console.log('1,2,3')          //object             
+// // typeof x 
+// console.log('x')              //undefined         
 
 //  STEP 11
 // Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows: // Hello Zak Ruvalcaba, welcome to the JavaScript class!
@@ -156,9 +161,9 @@
 // let y = 200;
 // console.log(x == y);
 
- STEP 22
-Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
-let x = 5
-let y = 5
-console.log(x != y)
+//  STEP 22
+// Using a set of Comparison and Logical operators, write an application that evaluates to false and displays the result within the console window. The application cannot use the same operators used in the previous application.
+// let x = 5
+// let y = 5
+// console.log(x != y)
 
