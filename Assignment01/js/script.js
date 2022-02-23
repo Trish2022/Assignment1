@@ -1,6 +1,6 @@
 //  NOTE: NO CLOSING SEMICOLON IS INTENTIONAL - TYP. THROUGHOUT
 //  STEP 1 
-// Convert the following identifiers to Camel Case notation
+// Convert the identifiers to Camel Case notation
 // let someMonth
 // function theMonth()
 // let currentMonth
@@ -52,11 +52,9 @@
 // let numDogs = 0;
 // alert(firstName+ ' has ' + numDogs+ ' dogs.')
 
-
-
 //  STEP 8 Fix the string literal
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'; 
-// window.console.log(someString);
+// window.console.log(someString);  changed it to the code that follows:
 
 // let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
 // window.console.log(someString)
@@ -73,7 +71,7 @@
 //  STEP 10
 //Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined
 // typeof 'Hello'
-// console.log('hello')         // string
+// console.log('Hello')         // string
 // // typeof '2' 
 // console.log('number')        // number
 // // typeof false  
