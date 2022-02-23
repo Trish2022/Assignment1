@@ -26,7 +26,7 @@
 // let address
 // let city
 // let state
-// let zip
+// let strZip
 // let yourAge
 // let referralSrc
 // let mayContact
@@ -40,9 +40,9 @@
 //  STEP 6 Create a variable, add number and string display the coerced result in console window
 // let firstName = 'Trish'
 // let yearsLocal = 30;
-// alert(firstName+ ' has been living in San Diego for ' + yearsLocal+ ' years.')
+// alert(firstName + ' has been living in San Diego for ' + yearsLocal+ ' years.')
 
-//  STEP 7 First variable, add a Boolean and a string, display the coerced result. 
+//  STEP 7 Part 1First variable, add a Boolean and a string, display the coerced result. 
 // let firstName = 'Trish'
 // let isNative = false
 // alert(firstName+ ' is a native; ' + isNative)
@@ -88,7 +88,7 @@
 // Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows: // Hello Zak Ruvalcaba, welcome to the JavaScript class!
 
 // let teacher = 'Zac Ruvalcaba'
-// alert('Hello ' + teacher + ',  welcome to the Javascript class!')
+// alert('Hello ' + teacher + ', ' welcome to the Javascript class!')
 // STEP 11 Substitute my name for your name. Although not necessary in practice, I want you to use 2 concatenation operators to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
 // let student = 'Trish Daugherty'
 // alert('Hello ' + student + ',  welcome to the Javascript class!')
