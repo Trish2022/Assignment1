@@ -72,10 +72,13 @@
 //Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined
 // typeof 'Hello'
 // console.log('Hello')         // string
-// // typeof '2' 
+// typeof '2' 
 // console.log('number')        // number
-// // typeof false  
-// console.log('1,2,3')         // Boolean
+// console.log(typeof true);
+// typeof boolean
+// let x = 5
+// let y = 5
+// console.log(true)            // Boolean
 // // typeof (1,2,3)
 // console.log('1,2,3')          //object             
 // // typeof x 
